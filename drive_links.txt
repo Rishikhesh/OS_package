@@ -3,3 +3,6 @@ https://drive.google.com/file/d/15Cak3V45n-pvZ7tqRYSCaxi0Js6jNqwl/view?usp=shari
 
 Teaching_assistant:
 https://drive.google.com/file/d/1FR4aewJp785eBZa8QQSRtRcL_j7GBS-C/view?usp=sharing
+
+Dining_philosophers:
+https://drive.google.com/file/d/1t2ctQQWD4IYSA2tjYgDBYUHIY6Iw50ej/view?usp=sharing
